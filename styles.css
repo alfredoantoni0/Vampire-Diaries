@@ -1,0 +1,54 @@
+h1{
+    color:red;
+    font-family:serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+}
+
+.firstimg{ 
+    width:700px;
+    border-radius: 8px;
+   }
+
+body { background-image: url("https://wallpapers-clan.com/wp-content/uploads/2022/06/halloween-web-black-wallpaper-3-scaled.jpg");
+  background-color:#e6b3ff;
+    text-align:center;
+}
+
+
+p { color:white;}
+
+.results { color:white;}
+
+img {
+	border-radius: 8px;
+    width: 400px;
+
+}
+ .Submit{ width:200px;
+    text-shadow: 2px 2px 5px red;
+    color: black;
+    background-color:#FFF8DC;
+    border-style: ridge;
+    height:40px;
+    border: 2px solid #F5F5F5; /* White */
+    font-family:monospace;
+}
+
+.restart{ width:200px;
+    text-shadow: 2px 2px 5px red;
+    color: black;
+    background-color:#FFF8DC;
+    border-style: ridge;
+    height:40px;
+    border: 2px solid #F5F5F5; /* White */
+    font-family:monospace;
+}
+
+.character-result {color:white;}
+
+restart{ text-align:center;}
